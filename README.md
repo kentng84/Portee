@@ -16,7 +16,7 @@ To install this skill into your Antigravity or Gemini CLI environment:
 1. Clone this repository into your `skills` directory:
    ```bash
    cd ~/.gemini/antigravity/skills
-   git clone https://github.com/<your-username>/portee-skill.git portee
+   git clone https://github.com/kentng84/Portee.git portee
    ```
 
 2. Register the skill in your `.antigravity-install-manifest.json` by adding `"portee"` to the `entries` list.
